@@ -38,12 +38,5 @@
 ---
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="DanielSalamon's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DanielSalamon&show_icons=true&hide_border=true" />
-
-</details>
-
 [instagram]: https://www.instagram.com/danieltoja
 [linkedin]: https://www.linkedin.com/in/daniel-salamon-542001165/
