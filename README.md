@@ -18,7 +18,7 @@
 <img align="left" alt="JupyterNotebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
 <img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" />
 <img align="left" alt="ScikitLearn" width="26px" src="https://lh3.googleusercontent.com/-fl3i6EXvPYI/WMqEA7z2pBI/AAAAAAAABL0/gK71Eq_PplMWMjqlo--SPVK-StvT2B7FgCLcB/s0/365630.png" />
-<img align="left" alt="NumPy" width="26px" src="https://numpy.org/images/logos/numpy.svg" />
+<img align="left" alt="NumPy" width="26px" src="https://numpy.org/images/logo.svg" />
 <img align="left" alt="Pandas" width="26px" src="https://pandas.pydata.org/static/img/pandas_mark.svg" />
 <img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1024px-Java_programming_language_logo.svg.png" />
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
