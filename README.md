@@ -1,7 +1,7 @@
 ### Hi there, I'm Daniel 👋
 
 
-## Currently, I'm a Master student of AI at University of Groningen.
+## Currently, I am working as Machine Learning Engineer.
 
 
 ### Connect with me:
